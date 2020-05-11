@@ -1,5 +1,8 @@
 # vue-doc-example
 
+This is my exmaple configuration for working with Vue styleguidist.
+For more details about configuration you can check [Styleguidist Documentation](https://vue-styleguidist.github.io/). If you have some questions you can contant with me throught my instagram account [mateusz.rog.pl](https://www.instagram.com/mateusz.rog.pl/)
+
 ## Project setup
 ```
 npm install
@@ -28,6 +31,16 @@ npm run lint
 ### Run your unit tests
 ```
 npm run test:unit
+```
+
+### Run styleguidist server
+```
+npm run styleguide
+```
+
+### Build styleguide to static HTML files
+```
+npm run styleguide:build
 ```
 
 ### Customize configuration

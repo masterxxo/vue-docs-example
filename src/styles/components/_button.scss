@@ -1,0 +1,9 @@
+.app-button {
+  display: block;
+}
+
+.app-button:disabled {
+  background: grey!important;
+  border: gray!important;
+  color: #000;
+}
